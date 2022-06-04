@@ -1,0 +1,14 @@
+C:\Users\Cadi\source\repos\individual2\bin\Debug\individual2.exe.config
+C:\Users\Cadi\source\repos\individual2\bin\Debug\individual2.exe
+C:\Users\Cadi\source\repos\individual2\bin\Debug\individual2.pdb
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.csproj.AssemblyReference.cache
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.Form1.resources
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.Properties.Resources.resources
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.csproj.GenerateResource.cache
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.csproj.CoreCompileInputs.cache
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.exe
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.pdb
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.form2.resources
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.cumparare.resources
+C:\Users\Cadi\source\repos\individual2\obj\Debug\individual2.vanzare.resources
